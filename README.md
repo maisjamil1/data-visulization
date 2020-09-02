@@ -1,0 +1,1 @@
+poetry add numpy jupyterlab matplotlib pandas sklearn seaborn
